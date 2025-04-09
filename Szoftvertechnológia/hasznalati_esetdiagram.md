@@ -36,7 +36,7 @@ A rendszernek a következő funckiókat kell ellátnia:
 <h4>FONTOS:</h4>
 Ehhez a témához fontos lehet a UML (Unified Modeling Language) fogalmának ismerete.
 
-Az UML egy szabványosított vizuális modellező nyelv, amelyet a szoftverrendszerek tervezésére és dokumentálására használnak. Segít a rendszerek szerkezetének, működésének és viselkedésének grafikus ábrázolásában.
+Az UML, azaz az Egységes Modellező Nyelv, egy grafikus eszközkészlet, amelyet szoftverrendszerek vizuális tervezésére használnak. Célja, hogy a fejlesztők, elemzők és megrendelők számára közös nyelvet biztosítson a rendszer működésének és felépítésének megértéséhez. Az UML-ben többféle diagram is létezik, mint például a használati eset diagram, amely a rendszer funkcionális követelményeit mutatja be, vagy az osztálydiagram, amely a program belső szerkezetét ábrázolja. Az UML tehát nem programozási nyelv, hanem egy vizuális kommunikációs eszköz, amely leegyszerűsíti a tervezési folyamatot.
 
 Mire használjuk?
 - Szoftverfejlesztés tervezésére
