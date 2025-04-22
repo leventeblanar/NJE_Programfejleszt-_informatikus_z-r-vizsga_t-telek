@@ -24,6 +24,12 @@ What is a REST API?
 - Uses URLs to represent resources
 - often returns data in JSON format
 
+What is CRUD?
+C - Create - POST
+R - Read - GET
+U - Update - PUT
+D - Delete - DELETE
+
 Example with the Pokemon API:
 1. Requesting a certain entry
 ```python
