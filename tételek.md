@@ -63,7 +63,7 @@
 
 2. A HTML5 újdonságai: új szemantikai elemek, forms 2.0, perzisztens helyi tárolás, web workers, websocket, szerver által küldött események (Server-Sent Events, SSE), hang és videó, geolokáció, fogd és vidd (drag and drop), canvas.
 
-3. Weboldalak i25nformációtartalmának és kinézetének szétválasztása. CSS nyelvtan, kiválasztók és tulajdonságok, mértékegységek. Doboz modell, pozicionálás, megjelenítés. Fontosabb média típusok.
+3. Weboldalak információtartalmának és kinézetének szétválasztása. CSS nyelvtan, kiválasztók és tulajdonságok, mértékegységek. Doboz modell, pozicionálás, megjelenítés. Fontosabb média típusok.
 
 4. JavaScript szerepe a weboldalakon, nyelvtani sajátosságok, eseményvezérelt programozás. DOM.
 
