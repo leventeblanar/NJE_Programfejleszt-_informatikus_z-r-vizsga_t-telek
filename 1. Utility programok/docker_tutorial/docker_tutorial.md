@@ -15,9 +15,9 @@ The problems with a virtual machine:
 Containers:
 - Allow running multiple apps in isolation
 - lightweight
-- use os of the host
+- use OS of the host
 - start quickly
-- need less hardware resources
+- needs less hardware resources
 
 2. **Docker Architecture**
 - Client server architecture (client component that talks to the server component through a rest API. [server -> Docker Engine])
@@ -47,5 +47,21 @@ Containers:
     After writing the entire dockerfile build it: docker build -t hello-docker .
 4th step:
     Check existing images: docker image ls
+    Check existing containers: docker container ps -a
 5th step:
     Run the docker file: docker run hello-docker 
+
+
+6. **Chosing the correct Linux-distribution for your docker image**
+- Linux has several different distribution versions (Ubuntu, Debian, Alpine, etc...)
+- I will have to research this later tho...........................................
+
+7. **Working with Docker - Ubuntu**
+- docker run ubuntu (this will pull and run an image with ubuntu)
+- docker ps -a : check currently available images
+- docker run -it ubuntu (-it is the interactive mode where the terminal will host a shell to pass commands to the kernel&
+
+8. **Package manager**
+- apt (Advanced Package Tool)
+
+Continue: https://www.youtube.com/watch?v=pTFZFxd4hOI
